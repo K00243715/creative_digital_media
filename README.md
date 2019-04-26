@@ -1,8 +1,5 @@
 # creative_digital_media
 
-https://k00243715.github.io/creative_digital_media/
-
-
 Name of website: 'GREAT LIGHTHOUSES OF THE WORLD'
 
 TYPE: Creative Lighthouse Website
@@ -18,4 +15,4 @@ DESCRIPTION: lEARN NEW seo TECHNIQUES AND HOW TO INCORPORATE AND IMPLENT THEM
 
 This website is currently under development and we greatly appreciate your patience and understanding during this time.
 
-View live Demo: https://k00243715.github.io/creative_digital_design/
+View live Demo: https://k00243715.github.io/creative_digital_media/
